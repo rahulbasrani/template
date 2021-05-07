@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/github.io/template/static/css/main.4a95e8fc.chunk.css",
+    "main.js": "/github.io/template/static/js/main.9d035750.chunk.js",
+    "main.js.map": "/github.io/template/static/js/main.9d035750.chunk.js.map",
+    "runtime-main.js": "/github.io/template/static/js/runtime-main.270ec290.js",
+    "runtime-main.js.map": "/github.io/template/static/js/runtime-main.270ec290.js.map",
+    "static/css/2.885c1373.chunk.css": "/github.io/template/static/css/2.885c1373.chunk.css",
+    "static/js/2.6a0a1864.chunk.js": "/github.io/template/static/js/2.6a0a1864.chunk.js",
+    "static/js/2.6a0a1864.chunk.js.map": "/github.io/template/static/js/2.6a0a1864.chunk.js.map",
+    "index.html": "/github.io/template/index.html",
+    "static/css/2.885c1373.chunk.css.map": "/github.io/template/static/css/2.885c1373.chunk.css.map",
+    "static/css/main.4a95e8fc.chunk.css.map": "/github.io/template/static/css/main.4a95e8fc.chunk.css.map",
+    "static/js/2.6a0a1864.chunk.js.LICENSE.txt": "/github.io/template/static/js/2.6a0a1864.chunk.js.LICENSE.txt",
+    "static/media/default-skin.css": "/github.io/template/static/media/default-skin.f64c3af3.svg",
+    "static/media/jumbotron-1.f02c6aaf.jpg": "/github.io/template/static/media/jumbotron-1.f02c6aaf.jpg",
+    "static/media/jumbotron-2.f788be6d.jpg": "/github.io/template/static/media/jumbotron-2.f788be6d.jpg",
+    "static/media/jumbotron-3.0dc87c5d.jpg": "/github.io/template/static/media/jumbotron-3.0dc87c5d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.270ec290.js",
+    "static/css/2.885c1373.chunk.css",
+    "static/js/2.6a0a1864.chunk.js",
+    "static/css/main.4a95e8fc.chunk.css",
+    "static/js/main.9d035750.chunk.js"
+  ]
+}
